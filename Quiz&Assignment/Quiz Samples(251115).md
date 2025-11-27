@@ -15,7 +15,7 @@ A
 ---
 ### Question 2
 
-**Which of the following is NOT a type of supervised learning? (以下哪个不属于监督学习？)**
+**Which of the following is NOT a type of supervised learning?**
 
 - A. Classification
 
@@ -28,8 +28,6 @@ A
 C
 
 ---
-
-解析：
 
 ### Question 3
 **Which type of machine learning is primarily used for finding patterns in data without pre-existing labels?**
