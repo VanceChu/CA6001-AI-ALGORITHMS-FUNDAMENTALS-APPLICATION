@@ -40,7 +40,7 @@ C
 
 - D. Semi-Supervised Learning
 
-D
+B
 
 ---
 
@@ -61,7 +61,7 @@ A
 
 
 ### Question 5
-Labelling data is know to be labour intensive... However supervised learning requires a lot of data... How do we deal with this problem? Where there is a lot of data, but only a small subset is labelled.
+**Labelling data is know to be labour intensive... However supervised learning requires a lot of data... How do we deal with this problem? Where there is a lot of data, but only a small subset is labelled.**
 
 Semi-Supervised Learning
 
